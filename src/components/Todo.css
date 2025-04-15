@@ -1,13 +1,17 @@
 .container{
-    /* border: solid; */
+    width: 450px;
+    height: 35px;
+    /* border: solid green; */
     display: flex;
     align-items: center;
     gap: 20px;
+    padding: 0 10px;
 }
 
 .input{
+    width: 450px;
     height: 35px;
-    width: 300px;
+    /* width: 300px; */
     font-size: 16px;
     padding: 0 10px;
 }
